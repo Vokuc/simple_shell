@@ -1,5 +1,10 @@
-SIMPLE SHELL PROJECT
+/**SIMPLE SHELL PROJECT**/
+**************************
+===============================
 
-aim of project is to build a unix command line interpreter
+/** AIM **/
+===========
+
+The aim of project is to build a unix command line interpreter
 in C.
 
